@@ -2,9 +2,9 @@
 This script listens for WooCommerce variation changes and updates WS Form fields with the selected variation ID.
 
 ## Features:
-✅ Updates WS Form fields automatically  
-✅ Supports multiple variation fields  
-✅ Ensures WooCommerce & WS Form stay in sync
+•Updates WS Form fields automatically  
+•Supports multiple variation fields  
+•Ensures WooCommerce & WS Form stay in sync
 
 ## How to Use:
 1. Add this script to your WooCommerce site.  
